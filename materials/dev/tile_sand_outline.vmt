@@ -1,0 +1,18 @@
+LightmappedGeneric
+{
+	$basetexture "dev/tile_outline_color"
+	$bumpmap "dev/tile_outline_phong"
+	$surfaceprop Concrete
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.03 0.03 0.03]"
+
+	$phong 1
+	$phongexponent 15
+	$phongamount "[1 1 1 1]"
+
+	$color "[0.85 0.63 0.33]"
+
+	%keywords "dev, developer"
+}
