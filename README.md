@@ -1,7 +1,7 @@
-# Developer Content
+# Developer Content `0.0.2`
 Created for personal use, but required for editing some of my public works.
 
 ## Gallery
-
+So far it's empty 😥
 ##
 **Developer: [Kirill "THE OWL" Gazin](https://github.com/redesaile)**
