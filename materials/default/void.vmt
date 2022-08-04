@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "default/world/void"
+
+	$alphatest 1
+
+	$nodecal 1
+
+	%keywords "default"
+}
