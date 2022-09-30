@@ -1,6 +1,6 @@
 LightmappedGeneric
 {
-	$basetexture "default/world/void"
+	$basetexture "default/void_color"
 
 	$alphatest 1
 
