@@ -1,4 +1,4 @@
-# Developer Content `0.1.0`
+# Developer Content `0.1.2`
 Created for personal use, but required for editing some of my public works.
 
 ## Gallery
