@@ -3,7 +3,7 @@ Created for personal use, but required for editing some of my public works.
 
 ## Gallery
 Texture | Type | Name
-------- | ---- | ----
+------- | :--- | :---
 <img src="https://user-images.githubusercontent.com/90133781/193465003-86809777-e04a-4185-af32-e6a9fd6f662f.png" width="128"> | Dev Material | Tile
 <img src="https://user-images.githubusercontent.com/90133781/193465015-7f76141d-75ed-4cf6-b4bb-1fceb11e0dea.png" width="128"> | Dev Material | Tile Outline
 <img src="https://user-images.githubusercontent.com/90133781/193464755-f69fbf7f-69fe-4001-85cc-9d71559d61ac.png" width="128"> | Trigger | Buyzone
