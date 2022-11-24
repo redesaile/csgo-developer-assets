@@ -4,7 +4,6 @@
 	title	"Developer Content"
 
 	"developer" 		"redesaile"
-	"developer_url"		"https://redesaile.github.io"
 
 
 	FileSystem
