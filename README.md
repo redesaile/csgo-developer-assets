@@ -10,3 +10,6 @@ Texture | Name
 <img src="https://user-images.githubusercontent.com/90133781/193464759-32e4006a-57ce-471c-8d55-5e272938b4d6.png" width="128"> | Trigger Clip VPhysics
 <img src="https://user-images.githubusercontent.com/90133781/193464760-8f98c678-28ba-439f-ae82-a3caa5ade91a.png" width="128"> | Trigger Hurt
 <img src="https://user-images.githubusercontent.com/90133781/193464762-ffd1929b-0b4d-45b5-adaf-f7032e3bc61a.png" width="128"> | Trigger Viscluster
+
+##
+**Developer: [Kirill "THE OWL" Gazin](https://github.com/redesaile)**
