@@ -1,0 +1,9 @@
+Sprite
+{
+	$basetexture "editor/player_speedmod_color"
+
+	$no_fullbright 1
+
+	$spriteorientation vp_parallel
+	$spriteorigin "[0.5 0.5]"
+}

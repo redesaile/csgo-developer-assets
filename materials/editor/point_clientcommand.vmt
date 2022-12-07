@@ -1,0 +1,9 @@
+Sprite
+{
+	$basetexture "editor/point_clientcommand_color"
+
+	$no_fullbright 1
+
+	$spriteorientation vp_parallel
+	$spriteorigin "[0.5 0.5]"
+}

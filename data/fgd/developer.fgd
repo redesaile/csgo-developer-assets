@@ -1,0 +1,24 @@
+// ------------------------------------------------------------------------------------------->
+// Previously not described classes
+// ------------------------------------------------------------------------------------------->
+@PointClass base(Targetname) iconsprite("editor/player_speedmod") = player_speedmod : 
+	"An entity that slows or speeds up the player."
+[
+
+]
+
+
+// ------------------------------------------------------------------------------------------->
+// Classes from base.fgd
+// ------------------------------------------------------------------------------------------->
+@PointClass base(Targetname) iconsprite("editor/point_clientcommand") = point_clientcommand : 
+	"An entity that issues commands to the client console, as if it was typed in by the player (if activator is a player, or the local player in single player)."
+[
+	input Command(string) : "Command to execute."
+]
+
+@PointClass base(Targetname) iconsprite("editor/point_servercommand") = point_servercommand : 
+	"An entity that issues commands to the server console."
+[
+	input Command(string) : "Command to execute."
+]

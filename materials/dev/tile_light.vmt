@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
 	$basetexture "dev/tile_color"
-	$bumpmap "dev/tile_phong"
+	$bumpmap "dev/tile_normal"
 	$surfaceprop Concrete
 
 	$envmap "env_cubemap"

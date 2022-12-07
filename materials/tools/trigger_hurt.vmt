@@ -4,7 +4,6 @@ LightmappedGeneric
 
 	$translucent 1
 
-	%tooltexture "tools/trigger_hurt_color"
 	%keywords "tools, trigger"
 
 	%compiletrigger 1

@@ -4,7 +4,6 @@ LightmappedGeneric
 
 	$translucent 1
 
-	%tooltexture "tools/trigger_clip_vphys_color"
 	%keywords "tools, trigger"
 
 	%compiletrigger 1
