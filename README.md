@@ -23,6 +23,3 @@ Texture | Name
 <img src="https://user-images.githubusercontent.com/90133781/206188011-b2eebbf0-7440-4589-9240-39421cc00a94.jpg" width="128"> | Trigger Once
 <img src="https://user-images.githubusercontent.com/90133781/193464760-8f98c678-28ba-439f-ae82-a3caa5ade91a.png" width="128"> | Trigger Hurt
 <img src="https://user-images.githubusercontent.com/90133781/193464762-ffd1929b-0b4d-45b5-adaf-f7032e3bc61a.png" width="128"> | Trigger Viscluster
-
-##
-**Developer: [Kirill "THE OWL" Gazin](https://github.com/redesaile)**
