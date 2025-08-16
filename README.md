@@ -1,5 +1,5 @@
-# Developer Content `1.0.3`
-Created for personal use, but required for editing some of my public works.
+# Developer Assets
+Created for personal use, but necessary for editing some of my public works on [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive).
 
 ## Gallery
 ### Entities
